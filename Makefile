@@ -1,4 +1,4 @@
-NAME = PlanetSim2D
+NAME = namespace
 CXX = g++
 CXXFLAGS = -std=c++20 -O2 -Wall
 LDFLAGS = -Llib -lraylib -lgdi32 -lwinmm
